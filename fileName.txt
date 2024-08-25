@@ -1,0 +1,3 @@
+Hello, World!
+Welcome to FileReader example.
+This is a simple file reading demo.

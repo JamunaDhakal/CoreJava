@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="JavaCollection"/>
+	<classpathentry kind="src" path="FileInputOutput"/>
+	<classpathentry kind="src" path="MultithreadingAndConcurrency"/>
+	<classpathentry kind="src" path="JavaDatabaseConnectivity(JDBC)"/>
+	<classpathentry kind="src" path="Java8Features"/>
+	<classpathentry kind="src" path="DataTypesAndVariables"/>
+	<classpathentry kind="src" path="OperatorsAndControlStatements"/>
+	<classpathentry kind="src" path="ObjectOrientedProgramming"/>
+	<classpathentry kind="src" path="PackagesAndAccessModifiers"/>
+	<classpathentry kind="src" path="ExceptionHandling"/>
+	<classpathentry kind="src" path="StringsAndStringManipulation"/>
+	<classpathentry kind="src" path="Arrays"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk-22"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
